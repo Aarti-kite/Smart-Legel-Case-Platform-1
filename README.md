@@ -1,1 +1,1 @@
-# Smart-Legel-Case-Platform-1
+# Smart-Legel-Case-Platform
